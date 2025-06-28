@@ -7,7 +7,7 @@ This is a collection of practicum projects from the [Regis University MSDS](http
 |:--------:|:-------------:|:----:|:------------:|:------:|:----:|:-----:|
 | ABC     | ABC Title     | [Code](https://example.com/repo) | [Slides](https://example.com/slides) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
 | Hamel, Chandon | 3D Denoising Diffusion Video Frame Interpolation (5DVFI) | [GitHub](https://github.com/Feebami/5DVFI) | [WebPage](https://huggingface.co/spaces/Feebami/DiffusionVFI) | [Report](https://drive.google.com/file/d/1pcxkm-aqTR0GQc6mJWLvHV8SsWo3JfNO/view?usp=drive_link) | | |
-| Abhilash Reddy     | Impact of Remote Work on Mental Health     | [GitHub](https://github.com/Areddyp/Final-Project) | [Report](https://example.com/report) | [Blog](https://example.com/blog) | [Additional Materials](https://example.com/materials) |
+| Abhilash Reddy     | Impact of Remote Work on Mental Health     | [GitHub](https://github.com/Areddyp/Final-Project) | [Report](https://drive.google.com/file/d/1q5vnKk3ZOD_eQL2XXveFe-mtlSeaqnV_/view?usp=sharing) |  | [Additional Materials](https://example.com/materials) |
 
 
 
